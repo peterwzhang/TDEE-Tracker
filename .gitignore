@@ -180,7 +180,7 @@ cython_debug/
 
 ## Angular ##
 # compiled output
-dist/
+# dist/ # covered in python gitignore
 tmp/
 app/**/*.js
 app/**/*.js.map
